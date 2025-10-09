@@ -7,7 +7,6 @@ app-text/wgetpaste
 #?in(os_linux_pkglist, CLD, CLDC, CLDL, CLDM, CLDX, CLDXS, CDS)!=#
 net-analyzer/nmap
 net-analyzer/traceroute
-net-dns/bind-tools
 net-misc/chrony
 net-misc/whois
 #in#
