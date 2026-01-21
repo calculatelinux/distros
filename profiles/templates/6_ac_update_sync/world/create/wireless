@@ -1,7 +1,6 @@
 # Calculate name=world format=world
 
 #?in(os_linux_pkglist, CLD, CLDC, CLDL, CLDM, CLDX, CLDXS, CLS)!=#
-net-wireless/rtl8814au
 net-wireless/wireless-tools
 net-wireless/wpa_supplicant
 sys-firmware/b43-firmware
