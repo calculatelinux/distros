@@ -4,7 +4,7 @@
 media-fonts/terminus-font
 sys-apps/busybox
 sys-apps/calculate-toolkit
-sys-apps/ifplugd
+#sys-apps/ifplugd
 sys-apps/less
 sys-kernel/dracut
 #in#
