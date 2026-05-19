@@ -18,7 +18,7 @@ x11-themes/adwaita-qt
 #in#
 
 #?in(os_linux_pkglist, CLDC, CLDM, CLDX, CLDXS)!=#
-x11-misc/qt5ct
+gui-apps/qt6ct
 #in#
 
 #?in(os_linux_pkglist, CLDM, CLDX, CLDXS)!=#
