@@ -44,7 +44,7 @@ sys-process/lsof
 #in#
 
 #?in(os_linux_pkglist, CLD, CLDC, CLDL, CLDM, CLDX, CLDXS)!=#
-app-arch/p7zip
+app-arch/7zip
 app-arch/rar
 app-arch/unzip
 app-crypt/libu2f-host
