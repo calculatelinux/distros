@@ -7,4 +7,7 @@ sys-apps/calculate-toolkit
 #sys-apps/ifplugd
 sys-apps/less
 sys-kernel/dracut
+
+acct-user/root
+acct-group/root
 #in#
