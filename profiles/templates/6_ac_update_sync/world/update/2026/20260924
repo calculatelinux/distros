@@ -1,0 +1,8 @@
+# Calculate format=world name=world ini(overlay-distros.world)<#-cut()-#
+
+#-ini(overlay-distros.world,#-cut()-#)-#
+
+!www-client/chromium
+#?in(os_linux_pkglist, CLD, CLDC, CLDL, CLDM, CLDX, CLDXS)!=#
+www-client/google-chrome
+#in#

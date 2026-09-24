@@ -12,7 +12,7 @@ net-misc/whois
 #in#
 
 #?in(os_linux_pkglist, CLD, CLDC, CLDL, CLDM, CLDX, CLDXS)!=#
-www-client/chromium
+www-client/google-chrome
 #in#
 
 #?in(os_linux_pkglist, CLDC, CLDL, CLDM, CLDX, CLDXS)!=#
