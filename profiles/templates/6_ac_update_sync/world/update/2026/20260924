@@ -2,7 +2,7 @@
 
 #-ini(overlay-distros.world,#-cut()-#)-#
 
-!www-client/chromium
+#!www-client/chromium
 #?in(os_linux_pkglist, CLD, CLDC, CLDL, CLDM, CLDX, CLDXS)!=#
 www-client/google-chrome
 #in#
