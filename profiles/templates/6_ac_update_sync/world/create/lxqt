@@ -9,7 +9,6 @@ lxqt-base/lxqt-meta
 lxqt-base/lxqt-openssh-askpass
 lxqt-base/lxqt-powermanagement
 lxqt-base/lxqt-sudo
-net-irc/hexchat
 x11-misc/qlipper
 x11-misc/screengrab
 x11-terms/qterminal

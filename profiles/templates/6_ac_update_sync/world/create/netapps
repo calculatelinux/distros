@@ -26,8 +26,8 @@ x11-misc/x11vnc
 mail-client/claws-mail
 #in#
 
-#?in(os_linux_pkglist, CLDM, CLDX, CLDXS)!=#
-net-irc/hexchat
+#?in(os_linux_pkglist, CLDL, CLDM, CLDX, CLDXS)!=#
+net-irc/zoitechat
 #in#
 
 #?in(os_linux_pkglist, CLD)!=#
